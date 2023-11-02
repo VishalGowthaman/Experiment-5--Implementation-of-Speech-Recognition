@@ -17,8 +17,8 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Program:
 ```
-Name: EZHIL MATHI.R
-Reg.No: 212221230026
+Name: VISHAL GOWTHAMAN K R
+Reg.No: 212221230123
 ```
 ```py
 import speech_recognition as sr
