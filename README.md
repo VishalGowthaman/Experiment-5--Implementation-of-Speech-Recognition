@@ -16,10 +16,6 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 * Step 8:Handle any potential errors during the transcribing process. If the audio is not clear, print "not clear". If there's an error while trying to retrieve the transcribed text from the Google speech recognizer, print "Couldnt get results from google speech recognizer".<br>
 
 ## Program:
-```
-Name: VISHAL GOWTHAMAN K R
-Reg.No: 212221230123
-```
 ```py
 import speech_recognition as sr
 file=("xxx.wav")
